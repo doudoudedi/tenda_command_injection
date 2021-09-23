@@ -2,13 +2,13 @@
 
 Vender ：Tenda
 
-Firmware version:US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin
+Firmware version:US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin && US_G1V1.0&G3V3.0br_V15.11.0.17(9502)_CN_TDC 2.bin
 
 Exploit Author: [doudoudedi233@gmail.com](mailto:doudoudedi233@gmail.com) && doudou.zhu@dbappsecurity.com.cn
 
 Vendor Homepage: https://www.tenda.com.cn/default.html
 
-Hardware Link: https://www.tenda.com.cn/download/detail-3040.html
+Hardware Link: https://www.tenda.com.cn/download/detail-3040.html && https://www.tenda.com.cn/download/detail-3108.html
 
 
 
